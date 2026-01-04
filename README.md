@@ -16,6 +16,17 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sanskar37&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 -->
+
+## 📚 Coursework & Interests
+
+- Data Structures & Algorithms  
+- Machine Learning & Applied Generative AI  
+- Operating Systems & Databases  
+- Full-stack Development & System Design  
+
+Solved **200+ DSA problems** on LeetCode and enjoy building production-style projects.
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
